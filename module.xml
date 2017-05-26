@@ -1,0 +1,15 @@
+<module>
+<Test f="nodata">
+  <Test>
+    <Button t="button"/>
+  </Test>
+</Test>
+<logic>
+void onButtonPress() {
+  // TODO: Implement me
+  return;
+}
+
+addOnEvent("Test/Test/Button", "click", "onButtonPress()");
+</logic>
+</module>
