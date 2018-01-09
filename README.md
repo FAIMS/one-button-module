@@ -1,2 +1,3 @@
-# one-button-module
-Very simple demo module with one button to test associated logic and functions
+# About this module:
+This module was created for internal development purposes of the FAIMS Project. The module represents minimal working example of a very simple module, containing only one button. The module enables to test associated logic and functions during the mobile development.
+
